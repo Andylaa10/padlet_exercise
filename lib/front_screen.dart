@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:padlet_exercise/stories_screen.dart';
+import 'package:hello_world/stories_screen.dart';
 
 import 'bottom_navigation_bar.dart';
 import 'main_body_screen.dart';

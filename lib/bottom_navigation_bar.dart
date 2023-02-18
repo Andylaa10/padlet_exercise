@@ -9,9 +9,9 @@ class BottomNavigation extends StatelessWidget {
     return BottomNavigationBar(
       items: const <BottomNavigationBarItem>[
         BottomNavigationBarItem(
+          label: "",
           icon: Icon(Icons.home),
           tooltip: 'Home',
-          label: "",
           backgroundColor: Colors.black,
         ),
         BottomNavigationBarItem(
@@ -27,7 +27,7 @@ class BottomNavigation extends StatelessWidget {
           backgroundColor: Colors.black,
         ),
         BottomNavigationBarItem(
-          icon: Icon(Icons.shop_outlined),
+          icon: Icon(Icons.shopping_bag_outlined),
           tooltip: 'Shop',
           label: "",
           backgroundColor: Colors.black,

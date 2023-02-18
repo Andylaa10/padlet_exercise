@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:padlet_exercise/grid_screen.dart';
-import 'package:padlet_exercise/scrollable_list_screen.dart';
-import 'package:padlet_exercise/stories_screen.dart';
 
 import 'front_screen.dart';
 
